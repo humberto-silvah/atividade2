@@ -1,2 +1,2 @@
-# atividade2
-funcoes de teste e manupulaçao de strings
+# atividade 2 do BFD
+funcoes de teste e manipulaçao de strings
